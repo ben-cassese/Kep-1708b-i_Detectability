@@ -1,5 +1,5 @@
 # Kep-1708b-i_Detectability
-### Code and data to accompany "Kepler-1708b-i is likely undetectable with HST"
+### Code and data to accompany "[Kepler-1708b-i is likely undetectable with HST](https://ui.adsabs.harvard.edu/abs/2022arXiv220313290C/abstract)"
 
 The noise esimtates HST's WFC3 and JWST's NIRSpec are in their respective notebooks, each of which is driven by their respective .py files.
 
