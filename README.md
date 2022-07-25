@@ -3,6 +3,6 @@
 
 The noise esimtates HST's WFC3 and JWST's NIRSpec are in their respective notebooks, each of which is driven by their respective .py files.
 
-Data from each of the 50 injection/recovery attempts can be found [here](https://drive.google.com/drive/folders/1OiHY0T6-QVzErD-eMtDBmup9Oa7lMvBl).
+Data from each of the 75 injection/recovery attempts will be posted in a Zenodo repository and linked here in August, 2022.
 
 Feel free to reach out with questions!
